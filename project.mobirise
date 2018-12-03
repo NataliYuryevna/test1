@@ -25,14 +25,16 @@
         "display7Size": 1.0625,
         "display4Font": "Roboto",
         "display4Size": 1,
-        "isScrollToTopButton": false
+        "isScrollToTopButton": false,
+        "isRtl": false
       }
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.6",
     "siteFonts": [],
     "uniqCompNum": 3,
-    "versionPublish": "4.8.6"
+    "versionPublish": "4.8.6",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
