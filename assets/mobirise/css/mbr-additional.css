@@ -577,9 +577,6 @@ a:hover {
   color: #b6b6b6;
 }
 /* Scroll to top button*/
-.scrollToTop_wraper {
-  display: none;
-}
 #scrollToTop a i:before {
   content: '';
   position: absolute;
